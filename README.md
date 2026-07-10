@@ -21,10 +21,8 @@
 [![](https://komarev.com/ghpvc/?username=yashashwag-en&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 ## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
+      
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashashwag-en/yashashwag-en/output/ocean.gif" alt="Snake animation" />
+</p>          
+                                        
