@@ -23,6 +23,5 @@
 ## 🐍 Contribution Snake
       
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashashwag-en/yashashwag-en/output/ocean.gif" alt="Snake animation" />
-</p>          
-                                        
+  <img src="https://raw.githubusercontent.com/yashashwag-en/yashashwag-en/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>                                  
